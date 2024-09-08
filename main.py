@@ -1,5 +1,5 @@
 # Formatting Text Starter Script
 
-# See the instructions for this script in the wiki for this repo
+# See the instructions in the wiki at the top of your GitHub window
 
-# Then write your code for this practice project below this comment
+# Write your code in this Python file using the GitHub code editor
